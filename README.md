@@ -4,6 +4,5 @@ Executed automated testing for a calculator application on mobile devices using 
 
 Key Achievements:
 
-    Developed and implemented automated test scripts using Java, Appium, and TestNG to cover key functionalities of the calculator app, including basic arithmetic operations, memory functions, and user interface interactions.
-    
-    Integrated Appium with TestNG for efficient test execution and comprehensive result analysis, contributing to a streamlined testing process.
+Developed and implemented automated test scripts using Java, Appium, and TestNG to cover key functionalities of the calculator app, including basic arithmetic operations, memory functions, and user interface interactions.
+Integrated Appium with TestNG for efficient test execution and comprehensive result analysis, contributing to a streamlined testing process.
