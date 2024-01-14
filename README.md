@@ -10,5 +10,5 @@ Integrated Appium with TestNG for efficient test execution and comprehensive res
 Technologies and Tools:
 
   Appium,
-  ,Java
-  ,TestNG
+  Java,
+  TestNG
