@@ -13,4 +13,4 @@ Technologies and Tools:
   Java,
   TestNG
 
-  Project Video: [Link to Project Video](https://drive.google.com/file/d/1-N_hEtE-0rr8Hscf1jeJx3aTfbb-wGc3/view?usp=sharing)https://drive.google.com/file/d/1-N_hEtE-0rr8Hscf1jeJx3aTfbb-wGc3/view?usp=sharing
+  Project Video: [Link to Project Video](https://drive.google.com/file/d/1-N_hEtE-0rr8Hscf1jeJx3aTfbb-wGc3/view?usp=sharing)
