@@ -12,3 +12,5 @@ Technologies and Tools:
   Appium,
   Java,
   TestNG
+
+  Project Video: Link to Project Video
